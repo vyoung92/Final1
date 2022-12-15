@@ -15,7 +15,6 @@
 #Q1 Read in the data, call the dataframe "s"  and check the dimensions of the dataframe
 import pandas as pd
 import streamlit as st
-import sklearn
 s = pd.read_csv("social_media_usage.csv")
 print(s)
 
