@@ -1,4 +1,4 @@
-scikit-learn requirements.txt
+scikit-learn
 
 asgiref==3.3.1
 Django==3.1.5
